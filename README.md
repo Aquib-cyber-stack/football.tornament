@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <img src="C:\college\tornament ing.jpg" alt="Tournament Banner" class="tournament-img">
+    <img src="C:\college\tornament-ing.jpg" alt="Tournament Banner" class="tournament-img">
     <div class="header">Football Tournament</div>
     <div class="container">
         <div class="section">
